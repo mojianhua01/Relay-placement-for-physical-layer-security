@@ -1,4 +1,4 @@
-%数值仿真找出最优的relay位置，并画出两维等高线图
+% Numerically find the optimal relay position and plot two-dimensional contours.
 clc
 clear;
 close all;
